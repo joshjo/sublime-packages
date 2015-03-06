@@ -1,0 +1,42 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/legacy/Github.tmTheme",
+	"font_face": "Fantasque Sans Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": true,
+	"non_blocking": true,
+	"overlay_scroll_bars": "enabled",
+	"python_interpreter": "/usr/bin/python2",
+	"rulers":
+	[
+		80
+	],
+	"spacegray_sidebar_font_large": true,
+	"spacegray_tabs_small": true,
+	"tab_size": 4,
+	"theme": "Spacegray Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": true,
+	"wrap_width": 80
+}

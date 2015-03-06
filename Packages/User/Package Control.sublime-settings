@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Anaconda",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Color Scheme - JustBeforeDawn",
+		"Dayle Rees Color Schemes",
+		"Djaneiro",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML Underscore Syntax",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Less2Css",
+		"lessc",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"requirementstxt",
+		"Sass",
+		"Theme - Fox",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Theme - Watson",
+		"Tomorrow Color Schemes",
+		"Underscorejs snippets"
+	]
+}
